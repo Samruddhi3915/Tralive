@@ -188,14 +188,14 @@ footer {
 }
 .abt {
   margin-top: 60px;
-  background-image: url(/images/bl.jpg);
+  background-image: url("/images/bl.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
 .abt2 {
   padding: 30px;
   margin-top: 60px;
-  background-image: url(/images/bl.jpg);
+  background-image: url("/images/bl.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
