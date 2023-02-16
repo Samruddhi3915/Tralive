@@ -1,0 +1,243 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+li {
+  /* float: right; */
+  padding: 13px;
+  color: rgb(241, 244, 244);
+  align-items: center;
+  display: inline-block;
+}
+.l:hover {
+  background-color: grey;
+  color: black;
+}
+a {
+  color: aliceblue;
+  text-decoration: none;
+}
+.l {
+  font-size: 19px;
+}
+.image {
+  padding: 3px;
+  height: 39px;
+  width: 39px;
+  float: left;
+}
+
+.liclass {
+  padding: 13px;
+  align-items: center;
+  color: blanchedalmond;
+  float: left;
+  font-size: 22px;
+  text-shadow: 2px 1px blue;
+}
+.spanclass {
+  /* margin-left: 90px; */
+  float: right;
+}
+/* .img1 {
+  background-image: url("./images/img2.jpg"); */
+/* background-color: cover;
+  height: 100%;
+  opacity: 69%;
+  /* width: 100%; */
+/* background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+} */
+.bt {
+  background-color: aliceblue;
+  /* border-radius: 25px; */
+  height: 45px;
+  margin: 6px;
+  font-size: 15px;
+  border-color: antiquewhite;
+  width: 100px;
+}
+.para {
+  text-shadow: 2px 2px white;
+  padding: 28%;
+  color: black;
+  font-size: 45px;
+}
+#id1 {
+  font-size: 35px;
+  padding: 2px;
+}
+.navbar {
+  overflow: hidden;
+  background-color: black;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  margin: 0;
+}
+.main {
+  margin-top: 35px;
+}
+.column {
+  float: left;
+}
+
+.card {
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
+.card10 {
+  padding: 15px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border: none;
+}
+/* .cardimg {
+  width: 320px;
+  height: 250px;
+} */
+.cardtitle {
+  font-size: 28px;
+}
+.cardtitle6 {
+  font-size: 90px;
+}
+.cardsubtitle {
+  /* margin-left: 10px; */
+  font-size: 23px;
+  /* padding: 60px; */
+}
+
+.carddiv {
+  background-image: url("./images/bl.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.carddiv1 {
+  background-image: url("./images/bl.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.btn {
+  background-color: black;
+  color: white;
+  border-radius: 100%;
+  /* width: 40px; */
+  /* font-size: 30px; */
+  /* height: 40px; */
+}
+.card1 {
+  margin-left: 5px;
+  margin-right: 5px;
+  border-style: solid;
+  border-width: 2px;
+  width: 300px;
+  height: 300px;
+  border-color: black;
+}
+.card2 {
+  width: 300px;
+  height: auto;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
+.classdiv3 {
+  background-image: url("./images/bl.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+footer {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+
+  text-align: center;
+}
+.abt1 {
+  margin-top: 0px;
+  background-image: url("/images/bl.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.contacts {
+  margin-top: 60px;
+  padding: 10px;
+  background-image: url("./images/blur.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.td3 {
+  font-size: 20px;
+  padding: 25px;
+}
+.abt {
+  margin-top: 60px;
+  background-image: url(/images/bl.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.abt2 {
+  padding: 30px;
+  margin-top: 60px;
+  background-image: url(/images/bl.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.card12 {
+  padding: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-style: dotted;
+  border-width: 2px;
+  width: 300px;
+  height: 300px;
+  padding-bottom: 0px;
+  border-color: black;
+}
+.cardsubtitle1 {
+  /* margin-left: 10px; */
+  font-size: 23px;
+  padding-bottom: 0px;
+  /* padding: 60px; */
+}
+/* .cardtitle4 {
+  padding-left: 80px;
+  font-size: 28px;
+} */
+.td2 {
+  padding: 50px;
+}
+.cardtitle4 {
+  font-size: 40px;
+  color: brown;
+}
+.cardtitle5 {
+  margin-top: 0px;
+  font-size: 34px;
+}
+
+.cardtitle10 {
+  margin-top: 0px;
+  font-size: 12px;
+}
+.cf {
+  padding: 10px;
+  border: 1px black double;
+  font-size: 28px;
+}
